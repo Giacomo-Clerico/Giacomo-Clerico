@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Giacomo, a 17 year old student from Italy.
-I've always loved programming, and I am now in the fourth year of a thechnical institute under the computer science specialization.
+I've always loved programming, and I am now in my fourth year of a thechnical institute, and my course specializes in computer science.
 
 We are leaning languages like C#(along with MAUI and Winforms) and Python. We are also learning web developement with HTML, CSS, and JavaScript.
 We also learned the basics of Assembly and how the CPU registers work.
@@ -26,4 +26,4 @@ I worked on many small projects, for specific purposes(tracking tool with data v
 
 I love working togheter with people and travelling, in fact I have participated in making and presented a virtual reality project with my school centered on safe training, both to a *Scuola Futura Campus* event, and to the Rome Maker Faire.
 
-I speak Italian, and I recently got my B2 certification in English. 
+I speak Italian, and I recently obtained my B2 certification in English. 
