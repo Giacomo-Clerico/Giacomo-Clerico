@@ -24,6 +24,6 @@ For school I mainly use Visual Studio, but for personal use i prefer programming
 
 I worked on many small projects, for specific purposes(tracking tool with data visualisation features for specific metrics, and a tool to show charts of dynamic time frames from data) or specific skills(list management in c++).
 
-I love working togheter with people and travelling, in fact I have participated in making and presented a virtual reality project with my school centered on safe training, both to a *Scuola Futura Campus* event, and to the Rome Maker Faire.
+I love working togheter with people and travelling, for example I have participated in making and presented a virtual reality project with my school centered on safe training, both to a *Scuola Futura Campus* event, and to the Rome Maker Faire.
 
 I speak Italian, and I recently obtained my B2 certification in English. 
